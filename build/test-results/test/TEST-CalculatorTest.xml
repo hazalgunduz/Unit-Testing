@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CalculatorTest" tests="9" skipped="0" failures="0" errors="0" timestamp="2019-07-25T12:07:02" hostname="C02XL2Z4JG5J" time="0.001">
+  <properties/>
+  <testcase name="subTest[0]" classname="CalculatorTest" time="0.0"/>
+  <testcase name="sumTest[0]" classname="CalculatorTest" time="0.0"/>
+  <testcase name="multTest[0]" classname="CalculatorTest" time="0.0"/>
+  <testcase name="subTest[1]" classname="CalculatorTest" time="0.0"/>
+  <testcase name="sumTest[1]" classname="CalculatorTest" time="0.0"/>
+  <testcase name="multTest[1]" classname="CalculatorTest" time="0.0"/>
+  <testcase name="subTest[2]" classname="CalculatorTest" time="0.0"/>
+  <testcase name="sumTest[2]" classname="CalculatorTest" time="0.0"/>
+  <testcase name="multTest[2]" classname="CalculatorTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
